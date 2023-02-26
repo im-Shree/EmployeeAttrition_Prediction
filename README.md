@@ -1,6 +1,6 @@
 ## Employee Attrition Prediction by Machine Learning models
 
-  This project aims to predict employee attrition using various machine learning algorithms such as logistic regression, random forest, SVM, and XGBoost. We will use a dataset containing various employee attributes such as age, gender, education, job level, etc., and their corresponding attrition status.
+  This project aims to predict employee attrition using various machine learning algorithms such as logistic regression, random forest, SVM, and XGBoost. We will use a dataset containing various satisfaction_level	last_evaluation_rating	projects_worked_on	average_montly_hours	time_spend_company	Work_accident	promotion_last_5years	Department	salary	Attrition.
   
 ## Dataset
 
